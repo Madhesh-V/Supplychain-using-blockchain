@@ -1,5 +1,8 @@
 # Supply Chain Transparency with NFTs and Blockchain
-- Unlocking Supply Chain Transparency with NFTs and Blockchain – From Warehouse to Warehouse, Trust the Trace!
+<p align="center">
+  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/signin%20page.png?token=GHSAT0AAAAAACJLZYAY4S56WSS66DZBGFJGZJZ67TQ" alt="my banner"></a>
+</p>
+Unlocking Supply Chain Transparency with NFTs and Blockchain – From Warehouse to Warehouse, Trust the Trace!
 
 ## Table of Contents
 
@@ -41,12 +44,12 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine using:
 
    ```shell
-   git clone https://github.com/your-username/supply-chain-nft.git
+   https://github.com/Madhesh-V/Supplychain-using-blockchain.git
    ```
 2. Navigate to the project directory:
 
    ```shell
-   cd supply-chain-nft
+   cd Supplychain-using-blockchain
    ```
 3. Install the required dependencies:
 
